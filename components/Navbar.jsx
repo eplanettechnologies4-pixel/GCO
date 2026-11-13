@@ -30,7 +30,7 @@ export default function Navbar() {
             priority
           />
           <div className="leading-tight whitespace-nowrap">
-            <div className="font-display font-bold text-base md:text-lg text-navy">
+            <div className="font-display font-bold text-base md:text-lg text-navy mb-none">
               Global Connection <span className="text-leaf"> <br />Welfare Organization</span>
             </div>
           </div>

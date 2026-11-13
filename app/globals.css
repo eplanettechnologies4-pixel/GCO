@@ -50,3 +50,10 @@ h1, h2, h3, h4, .font-display { font-family: 'Poppins', sans-serif; }
   background-image: radial-gradient(rgba(255, 255, 255, .09) 2px, transparent 2px);
   background-size: 24px 24px;
 }
+
+
+@media (max-width:768px) {
+.mb-none{
+  display: none;
+}
+}
